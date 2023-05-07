@@ -80,9 +80,10 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-``` 1.Placement data ```
-
+1.Placement data 
 ![ex4](https://user-images.githubusercontent.com/119390329/235430538-8fb3b534-dcf0-4aed-a3c3-64788743e597.png)
+2.
+![ex41](https://user-images.githubusercontent.com/119390329/236657368-47f1c662-187a-4d0b-838c-f12b10fec979.png)
 
 
 ## Result:
